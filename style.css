@@ -85,11 +85,12 @@ a:hover {
 }
 
 .hamburger-icon {
+   margin-left: -36px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 24px;
-  width: 30px;
+  height: 20px;
+  width: 23px;
   cursor: pointer;
 }
 
